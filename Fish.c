@@ -2,7 +2,7 @@
 #include<math.h>
 int main() {
     float n,i,j,t,s;
-    printf("Enter size of fish");
+    printf("Enter size of fish: ");
     scanf("%f", &n);
     n=n+14;
     s=n/10;
